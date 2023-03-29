@@ -1,21 +1,26 @@
+
 .header
 {
-  width: 100%;
+  width: 100.7%;
   height: 5%;
   border-style: solid;
   display: flex;
+  margin-left: -8px;
+  margin-top: -8px;
 }
 .header1
 {
-  width: 100%;
+  width: 100.7%;
   height: 10%;
   border-style: solid;
   display: flex;
+  margin-left: -8px;
 }
 .header2
 {
-  width: 100%;
+  width: 100.7%;
   height: 10%;
   border-style: solid;
   display: flex;
+  margin-left: -8px;
 }
