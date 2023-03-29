@@ -1,0 +1,145 @@
+body
+{
+    background-color: w;
+}
+.head
+{
+    border-style: solid;
+    margin-right: 10px;
+   /* margin-top: 15; */
+    height: 10%;
+    width: 100%;
+    background-color:white ;
+    display: flex;
+}
+.menu
+{
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-top: 15;
+    height: 25;
+    width: 50;
+    background-color: red; 
+}
+.stack
+{
+margin-right: 15;
+margin-top: 15;
+height: 25;
+width: 250;
+background-color: green; 
+}
+.search
+{
+     margin-top: 15;
+     width: 500;
+}
+.div2
+{
+   
+    margin-right: 15;
+    margin-top: 15;   
+    text-align: center;
+    height: 22;
+    
+    background-color: white; 
+}
+.button1 {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .button:hover {
+    opacity: 0.8;
+  }
+
+  .seconddiv
+  {
+    display: flex;
+    border-style: solid;    
+    height: 9%;
+    width: 100%;
+  }
+  .insidesecond
+  {
+    border-style: solid;
+    margin-left: 11px;
+    height: 90%;
+    width: 7%;
+    background-color: rgb(46, 46, 247);
+  }
+  .insidesecond_2
+  {
+    border-style: solid;
+    height: 90%;
+    width: 70%;
+
+  }
+  .insidesecond_3
+  {
+    border-style: solid;
+    height: 90%;
+    width: 7%;
+    background-color: rgb(97, 145, 207);
+  }
+  .div3
+  {
+    border-style: solid;
+    height: 100%;
+    width: 100%;
+    display: flex;
+  }
+  .div301{
+    border-style: solid;
+    width: 5%;
+    height: 99%;
+  }
+  .div302
+  {
+    border-style: solid;
+    width: 89%;
+    height: 99%;
+    background-color: rgb(63, 56, 56);
+  }
+  .div303{
+    border-style: solid;
+    width: 5%;
+    height: 99%;
+  }
+  .div3021
+  {
+    border-style: solid;
+    width: 100%;
+    height: 8%;
+  }
+  .designdiv3022
+  {
+    border-style: solid;
+    width: 20%;
+    height: 90%;
+    display: flex;
+  }
+  .designdiv3022sec
+  {
+    border-style: solid;
+    width: 50%;
+    height:90% ;
+  }
+  .designdiv3022sec1
+{
+    border-style: solid;
+    width: 50%;
+    height:98% ;
+    
+}
+.centerdiv
+{
+    border-style: solid;
+    width: 50%;
+    height: 50%;
+}

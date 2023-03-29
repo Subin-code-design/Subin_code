@@ -1,0 +1,313 @@
+body{
+  margin-top: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+.header
+{
+  /* border-style: solid; */
+  width: 100%;
+  height: 7%;
+  display: flex;
+  position: fixed;
+  background-color: white;
+  z-index: 1;
+  border-bottom: 1px solid rgb(145, 144, 144);
+}
+.seachbar
+{
+  background-color: white;
+  width: 15%;
+  height: 33px;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 540px; 
+  margin-bottom: 5px;
+  border-radius: 5px;
+  font-size: 1em;
+  margin-top: 5px;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer;
+    background-color: rgb(240, 238, 238);
+    border: none;
+}
+.languagediv
+{
+  /* border-style:solid; */
+  width: 136px;
+  height: 30px;
+  margin-top: 4px;
+  margin-left: 11px;
+  display: flex;
+  border: 1px solid rgb(139, 137, 137);
+  border-radius: 5px;
+}
+.more
+{
+  border: 2px solid rgb(153, 152, 152);
+  width: 30px;
+  height: 30px;
+  margin-left: 20px;
+  margin-top: 6px;
+  border-radius: 17px;
+}
+.googleaccount
+{
+  border: 2px solid rgb(153, 152, 152);
+width: 30px;
+height: 30px;
+margin-left: 10px;
+margin-top: 6px;
+border-radius: 17px;
+}
+.header2
+{
+  /* border-style: solid; */
+  width: 100%;
+  height: 20%;
+  display: flex;
+  background-color: rgb(36, 136, 49);
+}
+.header3
+{
+  /* border-style: solid; */
+  width: 100%;
+  height: 4.5%;
+  display: flex;
+  background-color: rgb(36, 136, 49);
+}
+button:hover
+{
+  color: rgb(100, 94, 94);
+  cursor: pointer;
+}
+.maindiv
+{
+  position: relative;
+  width: 99%;
+  height: 99%;
+  /* border-style: solid; */
+  /* position: relative; */
+  display: flex;
+  
+}
+.imd
+{
+  width: 65%;
+height: 86%;
+/* border-style: solid; */
+}
+.contentdivtop
+{
+  width: 30%;
+  height: 65%;
+  /* border-style: solid; */
+  /* position: absolute; */
+  margin-top: 100px;
+  margin-left: 3%;
+  line-height: 23px;
+}
+.contentdivbutton
+{
+  /* border-style: solid; */
+  width: 385px;
+  height: 55px;
+  margin-top: 25px;
+  display: flex;
+  margin-left: -5px;
+}
+button
+{
+  padding: 6px;
+  color: rgb(72, 72, 177);
+   height: 30px; 
+   /* margin-top: 18px; */
+   border:none;
+   background-color: white;
+   border-radius: 5px;
+  
+}
+button:hover
+{
+  background-color: rgb(189, 220, 240);
+}
+.thirddiv
+{
+  width: 99.5%;
+  height: 84%;
+  /* border-style: solid; */
+  margin-top: 20px;
+  display: flex;
+}
+.insidethirddiv
+{
+  width: 30.5%;
+height: 90%;
+/* border-style: solid; */
+}
+.singlediv
+{
+  width: 100%;
+  height: 9%;
+  /* border-style: solid; */
+}
+.fourthdiv
+{
+  width: 99.5%;
+  height: 64%;
+  /* border-style: solid; */
+  margin-top: 0px;
+  display: flex;
+ 
+}
+.imagediv
+{
+  /* border-style:solid; */
+  width: 47%;
+  height: 87.3%;
+  margin-left: 25px;
+  cursor: pointer;
+  margin-top: 15px;
+  
+}
+.fifthdiv
+{
+  width: 99.5%;
+  height: 30%;
+  /* border-style: solid; */
+  /* border-color: red; */
+  margin-top: 0px;
+  display: flex;
+ 
+}
+.contentdiv
+{
+  /* border-style:solid; */
+  width: 47%;
+  height: 90%;
+  margin-left: 25px;
+  cursor: pointer;
+  margin-top: 0px;
+  
+}
+.contentdiv2
+{
+  /* border-style:solid; */
+  /* border-color: blueviolet; */
+  width: 47%;
+  height: 90%;
+  margin-left: 25px;
+  cursor: pointer;
+  margin-top: 0px;
+  
+}
+.sixthdiv
+{
+  width: 99.5%;
+  height: 30%;
+  /* border-style: solid; */
+  /* border-color: red; */
+  margin-top: 0px;
+  display: flex;
+ 
+}
+.smalldivs
+{
+  height: 86%;
+  width: 13%;
+  /* border-style: solid; */
+  margin-left: 10%;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+.insidesmalldiv
+{
+  height: 53%;
+  width: 90%;
+  /* border-style: solid; */
+  margin-left: 6px;
+}
+.seventhdiv
+{
+  width: 99.5%;
+  height: 23%;
+  /* border-style: solid; */
+  /* border-color: red; */
+  margin-top: 0px;
+  display: flex;
+ display: flex;
+}
+.seventhsmall
+{
+  height: 96%;
+  width: 30%;
+  /* border-style: solid; */
+  margin-left: 20px;
+}
+.linkp
+{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+}
+.linkp:hover
+{
+  color: rgb(65, 119, 163);
+}
+.eightdiv
+{
+  width: 99.5%;
+  height: 8%;
+  /* border-style: solid; */
+  /* border-color: red; */
+  margin-top: 0px;
+  display: flex;
+ 
+}
+.iconbu
+{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  cursor: pointer;
+  margin-left: 40px;
+  text-align: center;
+  margin-top: 18px;
+}
+.iconbu:hover
+{
+  color: rgb(65, 119, 163);
+}
+.footer
+{
+  width: 99.5%;
+  height: 8%;
+  /* border-style: solid; */
+  /* border-color: red; */
+  margin-top: 0px;
+  display: flex;
+}
+.divforbut
+{
+  width: 110px;
+  height: 30px;
+  /* border-style: solid; */
+  border-radius: 6px;
+  background-color: rgb(32, 128, 207);
+  margin-top: 10px;
+  margin-left: 20px;
+  cursor: pointer;
+  
+}
+.languagedivfotter
+{
+  border-style:solid;
+  width: 136px;
+  height: 30px;
+  margin-top: 9px;
+  margin-left: 11px;
+  display: flex;
+  border: 1px solid rgb(139, 137, 137);
+  border-radius: 5px;
+}

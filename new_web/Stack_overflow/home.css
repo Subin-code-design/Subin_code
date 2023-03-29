@@ -1,0 +1,48 @@
+body
+{
+    background-color: crimson;
+    display: flex;
+}
+.div_col
+{
+    background-color: orange; 
+    height: 25;
+    width: 100%;
+}
+.div
+{   
+
+  
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-top: 15;
+    height: 25;
+    width: 50;
+    background-color: red; 
+             
+}
+.div1
+{
+   
+    margin-right: 15;
+    margin-top: 15;
+    height: 25;
+    width: 250;
+    background-color: green; 
+ 
+}
+.div2
+{
+   
+    margin-right: 15;
+    margin-top: 15;   
+    text-align: center;
+    height: 22;
+    
+    background-color: white; 
+}
+.search
+{
+    margin-top: 15;   
+    width: 500;
+}

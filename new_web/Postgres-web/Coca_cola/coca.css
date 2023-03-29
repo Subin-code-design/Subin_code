@@ -1,0 +1,271 @@
+body
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+.headdiv
+{
+  background-color: white;
+  width: 99.5%;
+  height: 10%;
+  /* border-style: solid; */
+  display: flex;
+  position: fixed;
+  z-index: 1;
+}
+.firstdiv
+{
+  background-color: rgb(156, 238, 153);
+  width: 99.5%;
+  height: 82%;
+  /* border-style: solid; */
+  display: flex;
+  /* border-color: red; */
+}
+.firstdiv1
+{
+  
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 50%;
+  height: 99%;
+  position: relative;
+  display: flex;
+  /* border-style: solid; */
+  /* border-color: chocolate; */
+}
+.firstdiv2
+{
+  background-color: rgb(0, 0, 0);
+  width: 50%;
+  height: 99%;
+  position: relative;
+  display: flex;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* border-style: solid; */
+  /* border-color: chartreuse; */
+}
+.seconddiv
+{
+  background-color: rgb(8, 241, 0);
+  width: 99.5%;
+  height: 82%;
+  /* border-style: solid; */
+  display: flex;
+  /* border-color: red; */
+}
+.seconddiv1
+{
+  
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 50%;
+  height: 99%;
+  position: relative;
+  display: flex;
+  /* border-style: solid; */
+  /* border-color: chocolate; */
+}
+.seconddiv2
+{
+  background-color: rgb(0, 0, 0);
+  width: 50%;
+  height: 99%;
+  position: relative;
+  display: flex;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* border-style: solid; */
+  /* border-color: chartreuse; */
+}
+
+
+.thirddiv
+{
+  background-color: rgb(8, 241, 0);
+  width: 99.5%;
+  height: 82%;
+  /* border-style: solid; */
+  display: flex;
+  /* border-color: red; */
+}
+.thirddiv1
+{
+  
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 50%;
+  height: 99%;
+  position: relative;
+  display: flex;
+  /* border-style: solid; */
+  /* border-color: chocolate; */
+}
+.thirddiv2
+{
+  /* background-color: rgb(184, 4, 4); */
+  width: 50%;
+  height: 99%;
+  position: relative;
+  display: flex;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* border-style: solid; */
+  /* border-color: chartreuse; */
+}
+
+
+
+.contentdiv
+{
+  position: absolute;
+  width: 87%;
+  height: 50%;
+  /* border-style: solid; */
+  margin-top: 210px;
+  margin-left: 7%;
+  font-family: "TCCC-UnityText-Medium", "TCCC-UnityText", sans-serif !important;
+  text-align: left;
+  font-style: normal !important;
+  line-height: 1.375rem !important;
+  font-size: 1rem !important;
+  cursor: pointer;
+}
+.font1
+{
+  color: #FFFFFF !important;
+  /* text-transform: uppercase; */
+  text-align: left;
+  display: block;
+  font-family: "TCCC-UnityText-Medium", "TCCC-UnityText", sans-serif !important;
+  font-style: normal !important;
+  line-height: 1.375rem !important;
+  font-size: 1rem !important;
+  cursor: pointer;
+}
+.footer
+{
+  width: 99.5%;
+  height: 30%;
+  /* border-style: solid; */
+  background-color: rgb(77, 74, 74);
+}
+.footerdiv1
+{
+  width: 99%;
+  height: 80px;
+  /* border-style: solid; */
+  /* border-color: green; */
+  display: flex;
+}
+.footerdiv2
+{
+  width: 99%;
+  height: 50px;
+  /* border-style: solid; */
+  /* border-color: green; */
+  display: flex;
+  margin-top: -35px;
+}
+h2
+{
+  color: white;
+}
+h3
+{
+  color: white;
+}
+h4
+{
+  color: white;
+}
+.button1
+{
+  width:9%;
+  height: 99%;
+  border: none;
+  background-color: white;
+  margin-left: 5px;
+ 
+}
+.button1:hover
+{
+  background-color: red;
+}
+.button2
+{
+  width:9%;
+  height: 99%;
+  border: none;
+  background-color: white;
+  
+}
+.button2:hover
+{
+  background-color: orangered;
+}
+.button3
+{
+  width:9%;
+  height: 99%;
+  border: none;
+  background-color: white;
+ 
+}
+.button3:hover
+{
+  background-color: rgb(54, 226, 126);
+}
+.button4
+{
+  width:9%;
+  height: 99%;
+  border: none;
+  background-color: white;
+ 
+}
+.button4:hover
+{
+  background-color: rgb(146, 212, 238);
+}
+.button5
+{
+  width:9%;
+  height: 99%;
+  border: none;
+  background-color: white;
+  
+}
+.button5:hover
+{
+  background-color: rgba(219, 171, 67, 0.932);
+}
+
+.button6
+{
+  width:9%;
+  height: 99%;
+  border: none;
+  background-color: white;
+}
+.button6:hover
+{
+  background-color: rgba(199, 120, 16, 0.932);
+}
+.button7
+{
+  width:9%;
+  height: 99%;
+  border: none;
+  background-color: white;
+
+}
+.button7:hover
+{
+  background-color: rgba(155, 121, 76, 0.932)
+}
